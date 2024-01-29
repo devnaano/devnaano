@@ -5,10 +5,11 @@ Seja bem-vindo ao meu espaço no GitHub! Meu nome é Carlos, mas pode me chamar 
 ## 🚀 Tecnologias que eu uso:
 
 - HTML5
-- CSS3<img style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-          
+- CSS3          
 - JavaScript
 - TypeScript
+
+<img loading="lazy" style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 ## 📝 O que estou estudando atualmente:
 
@@ -19,6 +20,10 @@ Atualmente, estou focado no aprendizado das seguintes tecnologias:
 - Prisma ORM
 - MySQL
 - MongoDB
+
+
+<img loading="lazy" style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+          
 
 ## 🌱 Objetivos:
 
