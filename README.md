@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá, eu sou o Nano! 👋
 
-<!--
-**devnaano/devnaano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu espaço no GitHub! Meu nome é Carlos, mas pode me chamar de Nano. Sou um entusiasta de filmes🎥, séries📺, jogos🎮, animes🏮 e mangás📖. Tenho uma paixão especial pela franquia Souls☀️🙌. Além disso, sou movido pela minha afinidade com a programação e estou empenhado em me tornar um web developer.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que eu uso:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+## 📝 O que estou estudando atualmente:
+
+Atualmente, estou focado no aprendizado das seguintes tecnologias:
+
+- Node.js
+- Express.js
+- Prisma ORM
+- MySQL
+- MongoDB
+
+## 🌱 Objetivos:
+
+Meu objetivo é desenvolver habilidades sólidas como desenvolvedor web, explorando novas tecnologias e contribuindo para a comunidade de código aberto. Estou animado para compartilhar meu progresso e aprender com outros desenvolvedores incríveis por aqui.
+
+## 🤝 Vamos nos conectar:
+
+Se você compartilha interesses semelhantes ou está interessado em colaborações, sinta-se à vontade para entrar em contato. Estou aberto a discussões, trocas de ideias e projetos emocionantes.
+
+Obrigado por visitar! 😊
