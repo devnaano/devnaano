@@ -6,6 +6,8 @@ Seja bem-vindo ao meu espaço no GitHub! Meu nome é Carlos, mas pode me chamar 
 
 - HTML5
 - CSS3
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+          
 - JavaScript
 - TypeScript
 
