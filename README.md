@@ -8,8 +8,15 @@ Seja bem-vindo ao meu espaço no GitHub! Meu nome é Carlos, mas pode me chamar 
 - CSS3          
 - JavaScript
 - TypeScript
+- Git
 
-<img loading="lazy" style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />          
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />          
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+          
 
 ## 📝 O que estou estudando atualmente:
 
@@ -22,7 +29,12 @@ Atualmente, estou focado no aprendizado das seguintes tecnologias:
 - MongoDB
 
 
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />         
 <img loading="lazy" style="height:50px; width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />         
+<img loading="lazy" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          
           
 
 ## 🌱 Objetivos:
